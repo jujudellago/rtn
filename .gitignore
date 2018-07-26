@@ -10,6 +10,9 @@ web/app/uploads/*
 !web/app/plugins/js_composer
 !web/app/plugins/LayerSlider
 !web/app/plugins/envato-market
+!web/app/plugins/qode-instagram-widget
+!web/app/plugins/qode-news
+!web/app/plugins/qode-twitter-feed
 
 # WordPress
 web/wp
@@ -24,3 +27,4 @@ web/.htaccess
 vendor/*
 !vendor/.gitkeep
 
+config/secrets.yml
