@@ -49,8 +49,7 @@
 	"wpackagist-plugin/CMB2" : "*",
 	"wpackagist-plugin/regenerate-thumbnails" : "*",
 	"wpackagist-plugin/redux-framework" : "*",
-	"wpackagist-plugin/safe-redirect-manager": "*",
-	"wpackagist-plugin/event-list" : "*"
+	"wpackagist-plugin/safe-redirect-manager": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"

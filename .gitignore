@@ -13,6 +13,7 @@ web/app/uploads/*
 !web/app/plugins/qode-instagram-widget
 !web/app/plugins/qode-news
 !web/app/plugins/qode-twitter-feed
+!web/app/plugins/event-list
 
 # WordPress
 web/wp

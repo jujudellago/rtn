@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2d1e4915848b465722d9a8b69a783fde",
+    "content-hash": "1e759f6007bdf927e65d2866d85143d3",
     "packages": [
         {
             "name": "composer/installers",
@@ -482,26 +482,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/duplicate-post/"
-        },
-        {
-            "name": "wpackagist-plugin/event-list",
-            "version": "0.8.3",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/event-list/",
-                "reference": "tags/0.8.3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/event-list.0.8.3.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/event-list/"
         },
         {
             "name": "wpackagist-plugin/gzip-ninja-speed-compression",
