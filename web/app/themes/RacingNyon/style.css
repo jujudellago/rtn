@@ -1,0 +1,25 @@
+/*
+Theme Name: Racing Team Nyonnais
+Theme URI: http://www.yabo-concept.ch
+Description: A child theme of Bridge Theme
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+ p{
+	margin-bottom:10px;
+}
+
+.bigger-text{
+	font-size:1.4em;
+}
+
+h3{
+	margin-bottom:20px;
+}
+
+
+
