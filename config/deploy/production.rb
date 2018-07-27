@@ -8,15 +8,15 @@ set :stage, :production
 
 # Extended Server Syntax
 # ======================
-server 'flum.ftp.sharedbox.com', user: 'flum_zsyabo', roles: %w{web app db}
+server 'mugx.ftp.infomaniak.com', user: 'mugx_yabo', roles: %w{web app db}
 
-set :tmp_dir, "/home/clients/15e0b62c05a08de02c6eae48e0705717/tmp"
-
-
-set :deploy_to, -> { "/home/clients/15e0b62c05a08de02c6eae48e0705717/production" }
+set :tmp_dir, "/home/clients/ba47652b34325c6d751f8affab481a0f/tmp"
 
 
-SSHKit.config.command_map[:composer] = "php-5.6 /home/clients/15e0b62c05a08de02c6eae48e0705717/bin/composer/composer.phar"
+set :deploy_to, -> { "/home/clients/ba47652b34325c6d751f8affab481a0f/bedrock" }
+
+
+SSHKit.config.command_map[:composer] = "php-7.1 /home/clients/ba47652b34325c6d751f8affab481a0f/bin/composer/composer.phar"
 
 SSHKit.config.command_map[:wp] ="~/bin/wp.sh"
 
