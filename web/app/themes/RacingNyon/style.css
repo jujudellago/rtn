@@ -35,3 +35,15 @@ h3{
 .full_section_inner a{
 	font-weight:600;
 }
+
+div.filterbar{
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:1px solid #ccc;
+}
+
+.filterbar .hlist li a,
+.filterbar .hlist li strong
+{
+	padding:15px;
+}
