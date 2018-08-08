@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "504ccc2a7fef2f251f2c2cf52791d487",
+    "content-hash": "6ffda401822fac6d0e5e7e369a30de86",
     "packages": [
         {
             "name": "composer/installers",
@@ -355,16 +355,16 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v2.5.0",
+            "version": "v2.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "6ae3e2e6494bb5e58c2decadafc3de7f1453f70a"
+                "reference": "8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/6ae3e2e6494bb5e58c2decadafc3de7f1453f70a",
-                "reference": "6ae3e2e6494bb5e58c2decadafc3de7f1453f70a",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e",
+                "reference": "8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e",
                 "shasum": ""
             },
             "require": {
@@ -401,7 +401,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2018-07-01T10:25:50+00:00"
+            "time": "2018-07-29T20:33:41+00:00"
         },
         {
             "name": "wpackagist-plugin/bootstrap-for-contact-form-7",
@@ -624,16 +624,36 @@
             "homepage": "https://wordpress.org/plugins/w3-total-cache/"
         },
         {
-            "name": "wpackagist-plugin/wp-retina-2x",
-            "version": "5.2.9",
+            "name": "wpackagist-plugin/wordpress-seo",
+            "version": "7.9.1",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-retina-2x/",
-                "reference": "tags/5.2.9"
+                "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                "reference": "tags/7.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-retina-2x.5.2.9.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.7.9.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wordpress-seo/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-retina-2x",
+            "version": "5.4.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-retina-2x/",
+                "reference": "tags/5.4.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-retina-2x.5.4.1.zip",
                 "reference": null,
                 "shasum": null
             },

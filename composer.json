@@ -46,6 +46,7 @@
 	"wpackagist-plugin/gzip-ninja-speed-compression" : "*",
 	"wpackagist-plugin/w3-total-cache" : "*",
 	"wpackagist-plugin/wp-retina-2x" : "*",
+        "wpackagist-plugin/wordpress-seo" : "*",
 	"wpackagist-plugin/CMB2" : "*",
 	"wpackagist-plugin/regenerate-thumbnails" : "*",
 	"wpackagist-plugin/redux-framework" : "*",
