@@ -8,7 +8,6 @@ web/app/uploads/*
 
 !web/app/plugins/revslider
 !web/app/plugins/js_composer
-!web/app/plugins/LayerSlider
 !web/app/plugins/envato-market
 !web/app/plugins/qode-instagram-widget
 !web/app/plugins/qode-news

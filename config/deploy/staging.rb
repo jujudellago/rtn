@@ -11,10 +11,6 @@ set :stage, :staging
 server "79.137.41.46", user: 'deploy', roles: %w{web app db}
 
 
-
-
-
-
 #SSHKit.config.command_map[:composer] = "/usr/local/php55/bin/php /home/terolabs/utils/php/composer/composer.phar"
 
 SSHKit.config.command_map[:wp] ="~/bin/wp.sh"
