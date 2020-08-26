@@ -7,6 +7,7 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 
 !web/app/plugins/revslider
+!web/app/plugins/bridge-core
 !web/app/plugins/js_composer
 !web/app/plugins/envato-market
 !web/app/plugins/qode-instagram-widget

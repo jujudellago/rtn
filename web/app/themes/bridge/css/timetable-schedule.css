@@ -60,7 +60,7 @@ table.tt_timetable .event {
 }
 
 table.tt_timetable .event a, table.tt_timetable .event .event_header {
-  color: #134cfe !important;
+  color: #1abc9c !important;
 }
 
 table.tt_timetable .event .after_hour_text,
@@ -193,11 +193,11 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
 
 .tt_tabs .tt_tabs_navigation li a {
   color: #fff !important;
-  background-color: #134cfe;
+  background-color: #1abc9c;
   font-size: 14px;
   font-weight: 700;
   font-family: inherit;
-  border: 2px solid #134cfe !important;
+  border: 2px solid #1abc9c !important;
   padding: 5px 15px !important;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -211,8 +211,8 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
 .tt_tabs .tt_tabs_navigation .ui-tabs-active a,
 .tt_tabs .tt_tabs_navigation li a:hover {
   background-color: transparent;
-  border: 2px solid #134cfe !important;
-  color: #134cfe !important;
+  border: 2px solid #1abc9c !important;
+  color: #1abc9c !important;
 }
 
 .tabs_box_navigation.sf-timetable-menu {
@@ -220,8 +220,8 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
 }
 
 .tabs_box_navigation.sf-timetable-menu .tabs_box_navigation_selected {
-  border-color: #134cfe;
-  background-color: #134cfe;
+  border-color: #1abc9c;
+  background-color: #1abc9c;
 }
 
 .tabs_box_navigation.sf-timetable-menu li:hover ul a,
@@ -231,7 +231,7 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
 
 .tabs_box_navigation.sf-timetable-menu li ul li a:hover,
 .tabs_box_navigation.sf-timetable-menu li ul li.selected a:hover {
-  background-color: #134cfe;
+  background-color: #1abc9c;
 }
 
 /* ==========================================================================
@@ -307,7 +307,7 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
 }
 
 .qode-ttevents-single .tt_event_items_list li.type_info .tt_event_text {
-  color: #134cfe;
+  color: #1abc9c;
   font-size: 15px;
   font-weight: 400;
 }
@@ -332,7 +332,7 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
   position: absolute;
   left: 0;
   font-family: 'ElegantIcons';
-  color: #134cfe;
+  color: #1abc9c;
   font-size: 18px;
 }
 
@@ -421,8 +421,8 @@ table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before {
 }
 
 .widget.upcoming_events_widget .tt_upcoming_event_controls a:hover {
-  background-color: #134cfe;
-  border-color: #134cfe;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
 }
 
 .widget.upcoming_events_widget .tt_upcoming_event_controls span {
